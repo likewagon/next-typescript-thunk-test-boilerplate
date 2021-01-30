@@ -4,6 +4,7 @@ const nextRoutes = require("next-routes");
 
 const routes = (module.exports = nextRoutes());
 
-routes.add("home", "/");
+routes.add("home", "/");routes.add("/auth", "/auth/index");
 
 export default routes;
+

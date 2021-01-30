@@ -1,37 +1,31 @@
 
-<img src="banner.jpg" alt="Performance oriented Next.js application boilerplate with Redux, Typescript, Express.js and Sass." align="center" />
+<!-- <img src="banner.jpg" alt="Performance oriented Next.js application boilerplate with Redux, Typescript, Express.js and Sass." align="center" /> -->
 
 <br/>
 <div align="center" >Performance oriented Next.js application boilerplate with Redux, Typescript, Express.js and Sass.</div>
 <br/>
 
-<div align="center">
-  <!-- Meercode -->
+<!-- <div align="center">
   <a href="https://meercode.io/">
     <img src="https://meercode.io/badge/pankod/next-boilerplate?type=ci-score&lastDay=60" />
   </a>
   <a href="https://meercode.io/">
     <img src="https://meercode.io/badge/pankod/next-boilerplate?type=ci-success-rate&lastDay=60" />
   </a>
-  <!-- CodeClimate -->
   <a href="https://codeclimate.com/github/pankod/next-boilerplate/maintainability">
     <img src="https://api.codeclimate.com/v1/badges/077c02d5cb9ec7d8a654/maintainability" />
   </a>
-  <!-- TestCoverage -->
   <a href="https://codeclimate.com/github/pankod/next-boilerplate/test_coverage"><img src="https://api.codeclimate.com/v1/badges/077c02d5cb9ec7d8a654/test_coverage" /></a>
-  <!-- Build Status -->
   <a href="https://travis-ci.org/pankod/next-boilerplate">
     <img src="https://travis-ci.org/pankod/next-boilerplate.svg?branch=master" alt="Build Status" />
   </a>
-  <!-- Dependency Status -->
   <a href="https://david-dm.org/pankod/next-boilerplate">
     <img src="https://david-dm.org/pankod/next-boilerplate.svg" alt="Dependency Status" />
   </a>
-  <!-- devDependency Status -->
   <a href="https://david-dm.org/pankod/next-boilerplate#info=devDependencies">
     <img src="https://david-dm.org/pankod/next-boilerplate/dev-status.svg" alt="devDependency Status" />
   </a>
-</div>
+</div> -->
 
 
 <br/>
